@@ -1,0 +1,181 @@
+ body{
+     /* background-color: rgb(241, 250, 252);  */
+     overflow-x: hidden;
+} 
+section{
+border: 40px solid;
+border-color: cadetblue;   
+}
+.room{
+    background-color: rgb(238, 230, 230);
+    padding-top: 10px;
+}
+.room2{
+    margin-left: 10%;
+}
+.three img{
+    margin-left: 600px;
+    margin-top: -40%;
+}
+.three button{
+    background-color: rgb(125, 202, 196);
+    border: none;
+    border-radius: 20px;
+     /* padding: 10px; */
+     height: 40px;
+    margin-left: 9%;
+}
+.four{
+    display: inline-flex;
+    margin-left: 400px;
+}
+.corner3{
+ margin-right: 100px;
+background-color: rgb(241, 235, 223)
+}
+.corner2{
+    margin-right: 200px;
+    background-color: rgb(241, 239, 233);
+    padding: 20px;  
+}
+.corner{
+    margin-right: 100px;
+    background-color:rgb(235, 232, 227);  
+    padding: 20px;
+}
+.three p{
+    font-size: 70px;
+    margin-left: 10%;
+}
+.three h4{
+    margin-left: 10%;
+
+}
+
+.one nav{
+    padding-left: 70%;  
+}
+  .two{
+    display: inline-flex; 
+    margin-left: 10px;
+} 
+.b{
+ margin-left: 50%;
+ background-color: blue;
+ border-radius: 90px;
+ padding: 15px;
+}
+.a{
+    margin-left: 90%;
+ background-color: rgb(233, 233, 6);
+ border-radius: 90px;
+ padding: 15px;
+
+}
+.one button{
+    background-color: blue;
+    border: none;
+    border-radius: 20px;
+}
+.five i{
+    display: inline-flex;
+    margin-right: 300px;
+
+}
+.six h1{
+    text-align: center;
+
+}
+.container{
+    display: inline-flex;
+    text-align: center;
+    margin-left: 300px;
+}
+ .sixbox{
+    /* margin-left: 300px; */
+    background-color: blue;
+}
+.sixo{
+    /* margin-left: 20px;  */
+    background-color: green;
+}
+.sixxx{
+    background-color: rgb(52, 90, 90);
+}
+.box1{
+    display: inline-flex;
+    padding-bottom: -200px;
+    display: block;
+    padding-left: 60%;
+    padding-top: 100px;  
+} 
+.city{
+    background-color: rgb(242, 248, 244);
+    padding: 60px;
+    margin-top: -5%;
+    text-align: center;
+}
+.city button{
+    background-color: green;
+}
+.city2{
+    margin-left: 70%;
+    margin-top: -2%;
+    text-align: left;   
+}
+
+.counter2 img{
+    margin-right:-260% ;
+    margin-top: -80%;
+}
+.regester{
+    background-color: rgb(235, 235, 238);
+    /* margin: -2px; */
+}
+.six p{
+    text-align: center;
+}
+.box p{
+    text-align: right;
+}
+.box h2{
+    text-align: right;
+    margin-left: 200px;
+}
+.five{
+    display: flex;
+}
+.control1{
+    margin-left: 90px;
+}
+.control2{
+    margin-left: 200px;
+}
+ 
+.control4{
+    margin-left: 200px;
+
+}
+.control3{
+    margin-left: 200px;
+
+ }
+.text1{
+    margin-right: 40%;
+}
+ .text2{
+    margin-right: 40%;
+}  
+
+
+
+
+ 
+
+    
+
+
+
+
+
+
